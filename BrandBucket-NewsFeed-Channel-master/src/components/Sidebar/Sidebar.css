@@ -1,0 +1,68 @@
+.sidebar{
+    height: 100vh;
+    box-shadow: 13px 0px 20px -12px #3a3a3a;
+    position: relative;
+}
+.sidebar-inside{
+    position: absolute;
+    top:8%;
+}
+.hero-profile {
+    width:300px;
+    text-align: center;
+    background-color: white;
+    padding:5px 20px;
+
+}
+.hero-profile img{
+    width:50px;
+    height: 50px;
+
+}
+.hero-profile p{
+    line-height: 5px;
+}
+.hero-profile .desc{
+    margin-top: 5px;
+}
+.sidebar-feedback{
+    display: block;
+    text-align: center;
+    background-color: white;
+    padding:5px 20px;
+    width:300px;
+    padding: 20px 0px;
+
+}
+.sidebar-feedback button{
+    outline: none;
+    border: none;
+    background-color: #2efaa5;
+    color:black;
+    font-weight: 600;
+}
+.sidebar-feedback h4{
+    font-weight: 750;
+}
+.toggle{
+    border-radius: 10px;
+    background-color: #ebf2f7;
+    width:120px;
+    height: 50px;
+    position: relative;
+    left: 90px;
+    top:5px;
+
+}
+.grid-view, .tiles-view{
+    width:50px;
+    color:#636363;
+    cursor:pointer;
+    padding: 8px;
+    margin-left: 8px;
+}
+.grid-view-tog{
+    background-color: #2efaa5;
+    color:#000000;
+
+}

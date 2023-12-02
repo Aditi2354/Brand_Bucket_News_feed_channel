@@ -1,0 +1,14 @@
+.post-list-tiles{
+    margin-bottom: -25px;
+}
+.round-div{
+    background-color:#2efaa5;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    margin-left: 10px;
+}
+.card-body{
+    margin-left: 60px;
+}

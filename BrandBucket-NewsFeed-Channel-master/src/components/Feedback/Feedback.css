@@ -1,0 +1,23 @@
+.feedbackMain{
+    background-color: #ebf2f7;
+    height:800px;
+    width: 100vw;
+    position: relative;
+
+}
+.feedback-main{
+    margin-left: 50px;
+}
+.feedback-inside{
+    position: absolute;
+    top:5%;
+}
+.success-message{
+    margin-left: 50px;
+    background-color: #2efaa5;
+}
+.success-message .dsc{
+    /* padding:15px; */
+    padding: 20px 40px;
+    /* color:white; */
+}
